@@ -93,10 +93,10 @@ div.campo > input {
     font-size: 1em;
     width: calc(100% - 46px);
     height: 100%;
-    transform: translate(0%, -35%);
     border: 0px;
     border-radius: 8px;
     padding: 4px;
+    transform: translate(0%, -35%);
 }
 
 div.campo input:focus-within{
